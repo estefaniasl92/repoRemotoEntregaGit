@@ -1,2 +1,1 @@
-Este es el contenido inicial del archivo.
-Modificaciones
+Contenido modificado en la rama principal y rama-usuario1
